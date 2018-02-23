@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1048715646051",
+    "firebase_url": "https://authentication-2dae3.firebaseio.com",
+    "project_id": "authentication-2dae3",
+    "storage_bucket": "authentication-2dae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048715646051:android:b3900eb7abdcda9d",
+        "android_client_info": {
+          "package_name": "com.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048715646051-96ie5h5it6imrn392kpp8tmsjsuu0q5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9qB7zaS9Oa24blfcmOGblwgmB2qhcg5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
